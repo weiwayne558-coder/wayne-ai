@@ -1,0 +1,178 @@
+{
+ "family": {
+  "w": 3840,
+  "h": 2160,
+  "dur": 330.3,
+  "clip": 50,
+  "mode": "cut",
+  "portrait": false
+ },
+ "voice": {
+  "w": 1920,
+  "h": 1080,
+  "dur": 298.1,
+  "clip": 45,
+  "mode": "cut",
+  "portrait": false
+ },
+ "pvz": {
+  "w": 3840,
+  "h": 2160,
+  "dur": 183.1,
+  "clip": 50,
+  "mode": "cut",
+  "portrait": false
+ },
+ "bug": {
+  "w": 1920,
+  "h": 1080,
+  "dur": 74.3,
+  "clip": 74.3,
+  "mode": "full",
+  "portrait": false
+ },
+ "gaokao": {
+  "w": 1280,
+  "h": 720,
+  "dur": 156.5,
+  "clip": 45,
+  "mode": "cut",
+  "portrait": false
+ },
+ "ji": {
+  "w": 1080,
+  "h": 1920,
+  "dur": 30.1,
+  "clip": 30.1,
+  "mode": "full",
+  "portrait": true
+ },
+ "wuhan": {
+  "w": 3840,
+  "h": 2160,
+  "dur": 66.6,
+  "clip": 66.6,
+  "mode": "full",
+  "portrait": false
+ },
+ "warmhome": {
+  "w": 2160,
+  "h": 2880,
+  "dur": 66.5,
+  "clip": 66.5,
+  "mode": "full",
+  "portrait": true
+ },
+ "wolf": {
+  "w": 1920,
+  "h": 1080,
+  "dur": 51.0,
+  "clip": 51.0,
+  "mode": "full",
+  "portrait": false
+ },
+ "dream9": {
+  "w": 3840,
+  "h": 2160,
+  "dur": 69.5,
+  "clip": 69.5,
+  "mode": "full",
+  "portrait": false
+ },
+ "dream9v": {
+  "w": 1080,
+  "h": 1920,
+  "dur": 47.0,
+  "clip": 47.0,
+  "mode": "full",
+  "portrait": true
+ },
+ "pindou": {
+  "w": 1920,
+  "h": 1080,
+  "dur": 15.0,
+  "clip": 15.0,
+  "mode": "full",
+  "portrait": false
+ },
+ "avatar": {
+  "w": 1920,
+  "h": 1080,
+  "dur": 10.0,
+  "clip": 10.0,
+  "mode": "full",
+  "portrait": false
+ },
+ "talk": {
+  "w": 1440,
+  "h": 2560,
+  "dur": 31.4,
+  "clip": 31.4,
+  "mode": "full",
+  "portrait": true
+ },
+ "cone1": {
+  "w": 2160,
+  "h": 3840,
+  "dur": 30.0,
+  "clip": 30.0,
+  "mode": "full",
+  "portrait": true
+ },
+ "cone2": {
+  "w": 2160,
+  "h": 3844,
+  "dur": 30.1,
+  "clip": 30.1,
+  "mode": "full",
+  "portrait": true
+ },
+ "cone3": {
+  "w": 3840,
+  "h": 2160,
+  "dur": 30.0,
+  "clip": 30.0,
+  "mode": "full",
+  "portrait": false
+ },
+ "geely": {
+  "w": 1920,
+  "h": 1080,
+  "dur": 191.9,
+  "clip": 35,
+  "mode": "cut",
+  "portrait": false
+ },
+ "crgas": {
+  "w": 1920,
+  "h": 1080,
+  "dur": 305.2,
+  "clip": 35,
+  "mode": "cut",
+  "portrait": false
+ },
+ "quzhou": {
+  "w": 3840,
+  "h": 2160,
+  "dur": 186.6,
+  "clip": 35,
+  "mode": "cut",
+  "portrait": false
+ },
+ "tianneng": {
+  "w": 1920,
+  "h": 1080,
+  "dur": 211.0,
+  "clip": 35,
+  "mode": "cut",
+  "portrait": false
+ },
+ "benda": {
+  "w": 1920,
+  "h": 1080,
+  "dur": 152.6,
+  "clip": 35,
+  "mode": "cut",
+  "portrait": false
+ }
+}
